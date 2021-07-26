@@ -34,11 +34,15 @@ The conditions were following:
 
 The first step to running lodgify-app locally by downloading the code by cloning the repository:
 
-git clone git@github.com:aditidw/lodgify-react-app.git
+``` 
+git clone git@github.com:aditidw/lodgify-react-app.git 
+```
 
 If you get Permission denied error using ssh refer here or use https link as a fallback.
 
-git clone https://github.com/aditidw/lodgify-react-app.git
+``` 
+git clone https://github.com/aditidw/lodgify-react-app.git 
+```
 
 
 ## Available Scripts
