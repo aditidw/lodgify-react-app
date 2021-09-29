@@ -1,4 +1,4 @@
-# Lodgify - Frontend Technical Test
+# Lodgify - A Booking App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
